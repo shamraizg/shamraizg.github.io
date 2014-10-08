@@ -2,16 +2,16 @@
 	text-align: center;
 	padding-top: 2%;
 	padding-bottom: 30%;
-	color: #FFFCD1 ;
+	color: #FFF ;
 }
 body {
 	background: url(img.jpg) no-repeat center center;
 	background-size:cover;
 }
 .signup-form {
-	color: #FFFCD1;
+	color: #fff;
 	text-align: center;
-	opacity: 0,0,0,10;
+	opacity: 0.8;
 }
 .email{
 	color:#fff;
