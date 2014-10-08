@@ -6,11 +6,13 @@
 }
 body {
 	background: url(img.jpg) no-repeat center center;
+	background-size:cover;
 }
 .signup-form {
 	color: #FFFCD1;
 	text-align: center;
+	opacity: 0,0,0,10;
 }
 .email{
-	color:#000;
+	color:#fff;
 }
