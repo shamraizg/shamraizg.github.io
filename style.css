@@ -2,7 +2,7 @@
 	text-align: center;
 	padding-top: 2%;
 	padding-bottom: 30%;
-	color: #FFF ;
+	color: #FFFCD1 ;
 }
 body {
 	background: url(img.jpg) no-repeat center center;
@@ -11,7 +11,7 @@ body {
 .signup-form {
 	color: #fff;
 	text-align: center;
-	opacity: 0.8;
+	
 }
 .email{
 	color:#fff;
