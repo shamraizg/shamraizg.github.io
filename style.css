@@ -9,10 +9,13 @@ body {
 	background-size:cover;
 }
 .signup-form {
-	color: #fff;
+	color: #000;
 	text-align: center;
 	
 }
 .email{
-	color:#fff;
+	color:#000;
+}
+.mc-field-group{
+	color:#000;
 }
