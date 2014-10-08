@@ -5,6 +5,7 @@
 	color: #FFFCD1 ;
 }
 body {
+	padding-top: 70px; 
 	background: url(img.jpg) no-repeat center center;
 	background-size:cover;
 }
@@ -16,6 +17,6 @@ body {
 .email{
 	color:#000;
 }
-.mc-field-group{
-	color:#000;
+.navbar-inner {
+    background:transparent;
 }
