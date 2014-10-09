@@ -19,4 +19,9 @@ body {
 .email{
 	color:#000;
 }
-
+.mc-field-group{
+	color:#000;
+}
+.mc-field-group label{
+	color:#fff;
+}
